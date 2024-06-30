@@ -1,4 +1,4 @@
-Adventure Sports Blog
+#Adventure Sports Blog
 
 ## Overview
 Welcome to the Adventure Sports Blog! This project is a parallax website that highlights various adventure sports, providing readers with engaging content and breathtaking visuals. It is designed to offer an immersive experience, combining informative articles with a stunning visual presentation.
