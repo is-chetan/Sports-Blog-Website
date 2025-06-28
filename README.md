@@ -21,7 +21,7 @@ To get started with the Adventure Sports Blog, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/adventure-sports-blog.git
+    git clone https://github.com/is-chetan/Sports-Blog-Website.git
     ```
 
 2. **Navigate to the project directory:**
