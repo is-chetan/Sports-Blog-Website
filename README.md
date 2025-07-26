@@ -25,8 +25,8 @@ This is a clean and visually engaging website that showcases different adventure
 
 ## 📸 Preview
 
-![Hero Section](assets/screenshot-hero.png)
-![Paragliding](assets/screenshot-paragliding.png)
+![Hero Section](Assets/screenshot-hero.png)
+![Paragliding](Assets/screenshot-paragliding.png)
 
 ---
 
