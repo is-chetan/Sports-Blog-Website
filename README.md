@@ -24,12 +24,13 @@ Designed for enthusiasts and casual readers alike, it delivers engaging content 
 
 ---
 
-## 📁 Table of Contents
+## 📸 Preview
 
-- [Overview](#-adventure-sports-blog)  
-- [Features](#-features)  
-- [Usage](#-usage)  
-- [Acknowledgements](#-acknowledgements)  
+### 🌄 Hero Section
+![Hero Section – Adventure Banner](./assets/screenshot-hero.png)
+
+### 🪂 Paragliding Section
+![Paragliding Section](./assets/screenshot-paragliding.png)
 
 ---
 
