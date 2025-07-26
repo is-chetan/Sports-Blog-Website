@@ -27,10 +27,10 @@ Designed for enthusiasts and casual readers alike, it delivers engaging content 
 ## 📸 Preview
 
 ### 🌄 Hero Section
-![Hero Section – Adventure Banner](./assets/screenshot-hero.png)
+![Hero Section – Adventure Banner] (<a href = "./assets/screenshot-hero.png">)
 
 ### 🪂 Paragliding Section
-![Paragliding Section](./assets/screenshot-paragliding.png)
+![Paragliding Section] (<a href = "./assets/screenshot-paragliding.png">)
 
 ---
 
