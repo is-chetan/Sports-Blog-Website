@@ -1,6 +1,6 @@
-# 🏔️ Adventure Sports Blog
 
-Welcome to the **Adventure Sports Blog!**  
+# 🏔️ Adventure Sports Blog — Parallax Website with Stunning Visuals
+
 This is a clean and visually engaging website that showcases different adventure sports with stunning images and smooth scrolling effects.
 
 🌐 **Live Site:** [https://adventure-sport-blog.netlify.app](https://adventure-sport-blog.netlify.app)
