@@ -1,8 +1,7 @@
 # 🏔️ Adventure Sports Blog
 
 Welcome to the **Adventure Sports Blog!**  
-This is a visually rich parallax website that highlights the thrill and beauty of various adventure sports.  
-Designed for enthusiasts and casual readers alike, it delivers engaging content with breathtaking visuals for an immersive experience.
+This is a clean and visually engaging website that showcases different adventure sports with stunning images and smooth scrolling effects.
 
 🌐 **Live Site:** [https://adventure-sport-blog.netlify.app](https://adventure-sport-blog.netlify.app)
 
@@ -26,15 +25,9 @@ Designed for enthusiasts and casual readers alike, it delivers engaging content 
 
 ## 📸 Preview
 
-<h3>🌄 Hero Section</h3>
-<a href="./assets/screenshot-hero.png" target="_blank">
-  <img src="./assets/screenshot-hero.png" alt="Hero Section – Adventure Banner" width="100%" />
-</a>
+![Hero Section](assets/screenshot-hero.png)
+![Paragliding](assets/screenshot-paragliding.png)
 
-<h3>🪂 Paragliding Section</h3>
-<a href="./assets/screenshot-paragliding.png" target="_blank">
-  <img src="./assets/screenshot-paragliding.png" alt="Paragliding Section" width="100%" />
-</a>
 ---
 
 ## 🚀 Usage
