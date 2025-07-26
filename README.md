@@ -26,12 +26,15 @@ Designed for enthusiasts and casual readers alike, it delivers engaging content 
 
 ## 📸 Preview
 
-### 🌄 Hero Section
-![Hero Section – Adventure Banner] (<a href = "./assets/screenshot-hero.png">)
+<h3>🌄 Hero Section</h3>
+<a href="./assets/screenshot-hero.png" target="_blank">
+  <img src="./assets/screenshot-hero.png" alt="Hero Section – Adventure Banner" width="100%" />
+</a>
 
-### 🪂 Paragliding Section
-![Paragliding Section] (<a href = "./assets/screenshot-paragliding.png">)
-
+<h3>🪂 Paragliding Section</h3>
+<a href="./assets/screenshot-paragliding.png" target="_blank">
+  <img src="./assets/screenshot-paragliding.png" alt="Paragliding Section" width="100%" />
+</a>
 ---
 
 ## 🚀 Usage
