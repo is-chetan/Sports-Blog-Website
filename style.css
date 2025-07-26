@@ -159,6 +159,29 @@ section {
     overflow: hidden;
 }
 
+.made-by {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-family: myfont2;
+    border-radius: 10px;
+    z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+
+.made-by:hover {
+    background-color: rgba(255, 255, 255, 0.85);
+    color: black;
+    cursor: default;
+}
+
+
+
 
 @keyframes fadeIn {
     from {
